@@ -1,5 +1,7 @@
 # Modeling-Agents-in-Scala
 Assignment #3
+
+
 Задачи:
 
 Выполнить установку и настройку scala и sbt.
